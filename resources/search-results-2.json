@@ -1,8 +1,8 @@
 {
     "request_info": {
         "success": true,
-        "credits_used": 38,
-        "credits_remaining": 62,
+        "credits_used": 46,
+        "credits_remaining": 54,
         "credits_used_this_request": 3
     },
     "request_parameters": {
@@ -13,28 +13,28 @@
         "page": "6"
     },
     "request_metadata": {
-        "created_at": "2023-05-07T00:53:29.447Z",
-        "processed_at": "2023-05-07T00:53:38.588Z",
-        "total_time_taken": 9.14,
+        "created_at": "2023-05-07T01:21:07.626Z",
+        "processed_at": "2023-05-07T01:21:12.655Z",
+        "total_time_taken": 5.03,
         "pages": [
             {
-                "created_at": "2023-05-07T00:53:29.447Z",
-                "processed_at": "2023-05-07T00:53:31.001Z",
-                "total_time_taken": 1.55,
+                "created_at": "2023-05-07T01:21:07.626Z",
+                "processed_at": "2023-05-07T01:21:08.872Z",
+                "total_time_taken": 1.25,
                 "page": "6",
                 "target_url": "https://www.target.com/s?searchTerm=laundry+detergent&Nao=120&category=uqe9q"
             },
             {
-                "created_at": "2023-05-07T00:53:31.002Z",
-                "processed_at": "2023-05-07T00:53:33.146Z",
-                "total_time_taken": 2.14,
+                "created_at": "2023-05-07T01:21:08.873Z",
+                "processed_at": "2023-05-07T01:21:11.420Z",
+                "total_time_taken": 2.55,
                 "page": 7,
                 "target_url": "https://www.target.com/s?searchTerm=laundry+detergent&Nao=144&category=uqe9q"
             },
             {
-                "created_at": "2023-05-07T00:53:33.146Z",
-                "processed_at": "2023-05-07T00:53:38.588Z",
-                "total_time_taken": 5.44,
+                "created_at": "2023-05-07T01:21:11.420Z",
+                "processed_at": "2023-05-07T01:21:12.655Z",
+                "total_time_taken": 1.24,
                 "page": 8,
                 "target_url": "https://www.target.com/s?searchTerm=laundry+detergent&Nao=168&category=uqe9q"
             }
@@ -102,6 +102,122 @@
         {
             "position": 2,
             "product": {
+                "title": "Method Free + Clear Laundry Detergent -  53.5 fl oz",
+                "link": "https://www.target.com/p/method-free-clear-laundry-detergent-53-5-fl-oz/-/A-17079688",
+                "tcin": "17079688",
+                "dpci": "003-02-0141",
+                "class_id": 2,
+                "department_id": 3,
+                "brand": "Method",
+                "brand_link": "https://www.target.com/b/method/-/N-5o69b",
+                "feature_bullets": [
+                    "Contains (1) 53.5 ounce bottle of concentrated, laundry detergent",
+                    "Laundry detergent with plant-based stain lifting power.",
+                    "Keeps colors bright and whites white.",
+                    "Concentrated formula delivers mighty cleaning power for he and standard washers.",
+                    "Biodegradable and hypoallergenic formula fights tough dirt and stains.",
+                    "Cruelty free. Tested by people, not on animals",
+                    "Free + Clear lives up to its name. No dyes. No perfumes",
+                    "Proudly doing business with a purpose."
+                ],
+                "rating": 4.6,
+                "ratings_total": 363,
+                "main_image": "https://target.scene7.com/is/image/Target/GUEST_7481a48b-b235-4a89-9b5c-88e92020347b",
+                "images": [
+                    "https://target.scene7.com/is/image/Target/GUEST_7481a48b-b235-4a89-9b5c-88e92020347b",
+                    "https://target.scene7.com/is/image/Target/GUEST_c0475f7e-3cfb-4b24-9f5e-326272e8a9b5",
+                    "https://target.scene7.com/is/image/Target/GUEST_8e7c7a9f-9bd9-4a24-804d-652c1154b250",
+                    "https://target.scene7.com/is/image/Target/GUEST_f5a3d064-134c-4655-bece-0dd8393a244b",
+                    "https://target.scene7.com/is/image/Target/GUEST_1bbea0eb-200b-495a-91fe-4afd32ca2bf2"
+                ],
+                "videos": [
+                    {
+                        "link": "https://target.scene7.com/is/content/Target/GUEST_ccef6bd9-8f3e-4890-895e-11bddfb74e1e_Flash9_Autox720p_2600k",
+                        "type": "video/mp4"
+                    }
+                ]
+            },
+            "offers": {
+                "primary": {
+                    "price": 14.99,
+                    "currency": "USD",
+                    "symbol": "$"
+                },
+                "all_offers": [
+                    {
+                        "price": 14.99,
+                        "currency": "USD",
+                        "symbol": "$"
+                    }
+                ]
+            },
+            "fulfillment": {
+                "type": "1p"
+            },
+            "page": "6",
+            "position_overall": 2
+        },
+        {
+            "position": 3,
+            "product": {
+                "title": "Method Beach Sage Laundry Detergent Packs - 42ct",
+                "link": "https://www.target.com/p/method-beach-sage-laundry-detergent-packs-42ct/-/A-77862005",
+                "tcin": "77862005",
+                "dpci": "003-02-9775",
+                "class_id": 2,
+                "department_id": 3,
+                "brand": "Method",
+                "brand_link": "https://www.target.com/b/method/-/N-5o69b",
+                "feature_bullets": [
+                    "Contains (4) 42-pack pouches of method laundry detergent packs.",
+                    "Laundry detergent packs with plant-based stain lifting power.",
+                    "Laundry detergent packs work in hot or cold water.",
+                    "Hypoallergenic formula brightens colors + whites.",
+                    "Features safety-lock zipper + innovative pouch made with 30% recycled plastic (PCR).",
+                    "Cruelty free. Tested by people, not on animals.",
+                    "This Beach Sage fragrance is like a morning stroll along a misty beach.",
+                    "Proudly doing business with a purpose."
+                ],
+                "rating": 4.3,
+                "ratings_total": 135,
+                "main_image": "https://target.scene7.com/is/image/Target/GUEST_eb3367b4-dceb-4a78-a41b-6e4206786ec9",
+                "images": [
+                    "https://target.scene7.com/is/image/Target/GUEST_eb3367b4-dceb-4a78-a41b-6e4206786ec9",
+                    "https://target.scene7.com/is/image/Target/GUEST_0f559c2f-da9d-4e11-b3e5-9fa0cce173b7",
+                    "https://target.scene7.com/is/image/Target/GUEST_481fbad6-42cf-47e0-9763-3c8974e7ec92",
+                    "https://target.scene7.com/is/image/Target/GUEST_f82ab530-6306-415f-8250-ec6929a5f71d",
+                    "https://target.scene7.com/is/image/Target/GUEST_1bbea0eb-200b-495a-91fe-4afd32ca2bf2"
+                ],
+                "videos": [
+                    {
+                        "link": "https://target.scene7.com/is/content/Target/GUEST_ccef6bd9-8f3e-4890-895e-11bddfb74e1e_Flash9_Autox720p_2600k",
+                        "type": "video/mp4"
+                    }
+                ]
+            },
+            "offers": {
+                "primary": {
+                    "price": 14.99,
+                    "currency": "USD",
+                    "symbol": "$"
+                },
+                "all_offers": [
+                    {
+                        "price": 14.99,
+                        "currency": "USD",
+                        "symbol": "$"
+                    }
+                ]
+            },
+            "fulfillment": {
+                "type": "1p"
+            },
+            "page": "6",
+            "position_overall": 3
+        },
+        {
+            "position": 4,
+            "product": {
                 "title": "9 Elements Liquid Laundry Detergent - Eucalyptus - 92 fl oz",
                 "link": "https://www.target.com/p/9-elements-liquid-laundry-detergent-eucalyptus-92-fl-oz/-/A-84130807",
                 "tcin": "84130807",
@@ -147,10 +263,10 @@
                 "type": "1p"
             },
             "page": "6",
-            "position_overall": 2
+            "position_overall": 4
         },
         {
-            "position": 3,
+            "position": 5,
             "product": {
                 "title": "Method Ginger Mango Laundry Detergent Packs - 42ct/21.8oz",
                 "link": "https://www.target.com/p/method-ginger-mango-laundry-detergent-packs-42ct-21-8oz/-/A-77862012",
@@ -204,10 +320,10 @@
                 "type": "1p"
             },
             "page": "6",
-            "position_overall": 3
+            "position_overall": 5
         },
         {
-            "position": 4,
+            "position": 6,
             "product": {
                 "title": "Dreft Active Baby Liquid Laundry Detergent - 65 fl oz",
                 "link": "https://www.target.com/p/dreft-active-baby-liquid-laundry-detergent-65-fl-oz/-/A-83049617",
@@ -226,7 +342,7 @@
                     "Formulated for both High Efficiency (HE) and standard washers"
                 ],
                 "rating": 4.5,
-                "ratings_total": 484,
+                "ratings_total": 485,
                 "main_image": "https://target.scene7.com/is/image/Target/GUEST_65e1ecc4-7e5f-48da-a7ae-f04c298536a0",
                 "images": [
                     "https://target.scene7.com/is/image/Target/GUEST_65e1ecc4-7e5f-48da-a7ae-f04c298536a0",
@@ -267,70 +383,10 @@
                 "type": "1p"
             },
             "page": "6",
-            "position_overall": 4
+            "position_overall": 6
         },
         {
-            "position": 5,
-            "product": {
-                "title": "Dreft Family Friendly Unscented Liquid Baby laundry Detergent - 92 fl oz",
-                "link": "https://www.target.com/p/dreft-family-friendly-unscented-liquid-baby-laundry-detergent-92-fl-oz/-/A-75663818",
-                "tcin": "75663818",
-                "dpci": "003-08-6730",
-                "class_id": 8,
-                "department_id": 3,
-                "brand": "Dreft",
-                "brand_link": "https://www.target.com/b/dreft/-/N-56cfm",
-                "feature_bullets": [
-                    "Gentle Enough for Baby. Strong Enough for Family",
-                    "Even more cleaning power*",
-                    "Hypoallergenic detergent for sensitive skin",
-                    "Unscented",
-                    "0% added dyes or phosphates",
-                    "Works in all washing machines",
-                    "*vs. Dreft Active Baby"
-                ],
-                "rating": 4.6,
-                "ratings_total": 182,
-                "main_image": "https://target.scene7.com/is/image/Target/GUEST_a6cd6e2f-578c-4258-863f-d64fcbb9fa6c",
-                "images": [
-                    "https://target.scene7.com/is/image/Target/GUEST_a6cd6e2f-578c-4258-863f-d64fcbb9fa6c",
-                    "https://target.scene7.com/is/image/Target/GUEST_f352f548-d4d3-4a3f-b27b-faed31f6cb8f",
-                    "https://target.scene7.com/is/image/Target/GUEST_2dbe8cb4-5b67-40eb-976b-777ad76d4672",
-                    "https://target.scene7.com/is/image/Target/GUEST_b28c8ec2-8f09-4d6d-9e67-9502ab733da2",
-                    "https://target.scene7.com/is/image/Target/GUEST_98550c30-51e3-4fad-bc27-92fb54431ffe",
-                    "https://target.scene7.com/is/image/Target/GUEST_83b121e6-515d-45d5-94a2-6f0a2f3c041d",
-                    "https://target.scene7.com/is/image/Target/GUEST_2a52418a-fe22-439a-aa7f-d2d5d671a767",
-                    "https://target.scene7.com/is/image/Target/GUEST_cc471337-3126-401d-b54d-121857bdb636"
-                ],
-                "videos": [
-                    {
-                        "link": "https://target.scene7.com/is/content/Target/GUEST_870d087c-3894-457f-9857-4079ba63d675_Flash9_Autox720p_2600k",
-                        "type": "video/mp4"
-                    }
-                ]
-            },
-            "offers": {
-                "primary": {
-                    "price": 16.99,
-                    "currency": "USD",
-                    "symbol": "$"
-                },
-                "all_offers": [
-                    {
-                        "price": 16.99,
-                        "currency": "USD",
-                        "symbol": "$"
-                    }
-                ]
-            },
-            "fulfillment": {
-                "type": "1p"
-            },
-            "page": "6",
-            "position_overall": 5
-        },
-        {
-            "position": 6,
+            "position": 7,
             "product": {
                 "title": "Method Coconut + Cactus Water Laundry Detergent - 53.5 fl oz",
                 "link": "https://www.target.com/p/method-coconut-cactus-water-laundry-detergent-53-5-fl-oz/-/A-76157717",
@@ -375,63 +431,6 @@
                 "all_offers": [
                     {
                         "price": 14.99,
-                        "currency": "USD",
-                        "symbol": "$"
-                    }
-                ]
-            },
-            "fulfillment": {
-                "type": "1p"
-            },
-            "page": "6",
-            "position_overall": 6
-        },
-        {
-            "position": 7,
-            "product": {
-                "title": "ECOS Plastic-Free Laundry Detergent Sheets - Free &#38; Clear - 7.9oz/64 Loads",
-                "link": "https://www.target.com/p/ecos-plastic-free-laundry-detergent-sheets-free-38-clear-7-9oz-64-loads/-/A-84174848",
-                "tcin": "84174848",
-                "dpci": "003-02-7247",
-                "class_id": 2,
-                "department_id": 3,
-                "brand": "ECOS",
-                "brand_link": "https://www.target.com/b/ecos/-/N-jd3vf",
-                "feature_bullets": [
-                    "Now 100% plastic-free! We've updated this product to be free from ALL plastic components.",
-                    "1 sheet = 1 load of laundry. Just toss it in.",
-                    "No water, no heavy bottle and no pouring.",
-                    "Formula uses enzymes found in nature to erase tough stains.",
-                    "No waste! Our detergent sheets are completely dissolvable and the packaging is 100% recyclable.",
-                    "Detergent is dermatologist-tested & hypoallergenic for sensitive skin.",
-                    "Clean formula is made without dyes, optical brighteners, parabens, phosphates and 500+ other nasty ingredients we promise to never use."
-                ],
-                "main_image": "https://target.scene7.com/is/image/Target/GUEST_501fbb33-6400-42e2-b8a4-681cb9bec594",
-                "images": [
-                    "https://target.scene7.com/is/image/Target/GUEST_501fbb33-6400-42e2-b8a4-681cb9bec594",
-                    "https://target.scene7.com/is/image/Target/GUEST_a5db227b-703b-4923-b716-73417431e8c9",
-                    "https://target.scene7.com/is/image/Target/GUEST_6c541e8d-7bda-4c36-93bc-69d34b5c989e",
-                    "https://target.scene7.com/is/image/Target/GUEST_30927ed4-0417-4761-b0c5-02d804e4ffca",
-                    "https://target.scene7.com/is/image/Target/GUEST_a740de57-86a7-475b-8edd-55e1d7882413",
-                    "https://target.scene7.com/is/image/Target/GUEST_dced9796-7489-449c-a22f-ac42a3d16a76",
-                    "https://target.scene7.com/is/image/Target/GUEST_5cec9db4-1591-4c8d-b5ba-edac869d15a4"
-                ],
-                "videos": [
-                    {
-                        "link": "https://target.scene7.com/is/content/Target/GUEST_165be7e8-9f0e-4613-b102-7f3025c81037_Flash9_Autox720p_2600k",
-                        "type": "video/mp4"
-                    }
-                ]
-            },
-            "offers": {
-                "primary": {
-                    "price": 12.99,
-                    "currency": "USD",
-                    "symbol": "$"
-                },
-                "all_offers": [
-                    {
-                        "price": 12.99,
                         "currency": "USD",
                         "symbol": "$"
                     }
@@ -1145,25 +1144,25 @@
         {
             "position": 20,
             "product": {
-                "title": "Persil Oxi Unit Dose Laundry Detergent - 15ct",
-                "link": "https://www.target.com/p/persil-oxi-unit-dose-laundry-detergent-15ct/-/A-87559702",
-                "tcin": "87559702",
-                "dpci": "003-08-2923",
+                "title": "Persil Intense Fresh Liquid Laundry Detergent - 40 fl oz",
+                "link": "https://www.target.com/p/persil-intense-fresh-liquid-laundry-detergent-40-fl-oz/-/A-87559685",
+                "tcin": "87559685",
+                "dpci": "003-08-0963",
                 "class_id": 8,
                 "department_id": 3,
                 "brand": "Persil",
                 "brand_link": "https://www.target.com/b/persil/-/N-4uak6",
-                "rating": 4.6,
-                "ratings_total": 33885,
-                "main_image": "https://target.scene7.com/is/image/Target/GUEST_adde55b5-144e-450d-9008-61faefc35666",
+                "rating": 4.7,
+                "ratings_total": 400,
+                "main_image": "https://target.scene7.com/is/image/Target/GUEST_0d372093-7a63-4312-92e4-618861f98dd8",
                 "images": [
-                    "https://target.scene7.com/is/image/Target/GUEST_adde55b5-144e-450d-9008-61faefc35666",
-                    "https://target.scene7.com/is/image/Target/GUEST_8be93720-40a6-4fac-bf9b-d2ab4870f841",
-                    "https://target.scene7.com/is/image/Target/GUEST_8702a952-2b3f-4e6e-9e78-c75405b11f14",
-                    "https://target.scene7.com/is/image/Target/GUEST_c3d35e16-e0bd-4195-9170-affeac39ff99",
-                    "https://target.scene7.com/is/image/Target/GUEST_884fe71b-ce44-4201-aa1c-8a4f5a8d4198",
-                    "https://target.scene7.com/is/image/Target/GUEST_104724ce-554d-4a0d-90dd-947a44e5399b",
-                    "https://target.scene7.com/is/image/Target/GUEST_bf12e0ef-245e-4e6d-bc9f-b3b690176307"
+                    "https://target.scene7.com/is/image/Target/GUEST_0d372093-7a63-4312-92e4-618861f98dd8",
+                    "https://target.scene7.com/is/image/Target/GUEST_5b24ff59-da38-4b35-8488-79dbdbd46bfb",
+                    "https://target.scene7.com/is/image/Target/GUEST_0f43c4f8-faca-4a71-b6da-8c095a3cd8b7",
+                    "https://target.scene7.com/is/image/Target/GUEST_0795c492-2fdf-4b3f-afad-ed1d03929572",
+                    "https://target.scene7.com/is/image/Target/GUEST_4faa78ea-2a9d-4662-a792-6cd82f5d4d74",
+                    "https://target.scene7.com/is/image/Target/GUEST_917f721e-691a-486a-a5c3-79dbd3b3d624",
+                    "https://target.scene7.com/is/image/Target/GUEST_381763c2-dcdb-4169-9fac-bcb4a9d2be10"
                 ]
             },
             "offers": {
@@ -1189,25 +1188,25 @@
         {
             "position": 21,
             "product": {
-                "title": "Persil Intense Fresh Liquid Laundry Detergent - 40 fl oz",
-                "link": "https://www.target.com/p/persil-intense-fresh-liquid-laundry-detergent-40-fl-oz/-/A-87559685",
-                "tcin": "87559685",
-                "dpci": "003-08-0963",
+                "title": "Persil Oxi Unit Dose Laundry Detergent - 15ct",
+                "link": "https://www.target.com/p/persil-oxi-unit-dose-laundry-detergent-15ct/-/A-87559702",
+                "tcin": "87559702",
+                "dpci": "003-08-2923",
                 "class_id": 8,
                 "department_id": 3,
                 "brand": "Persil",
                 "brand_link": "https://www.target.com/b/persil/-/N-4uak6",
-                "rating": 4.7,
-                "ratings_total": 400,
-                "main_image": "https://target.scene7.com/is/image/Target/GUEST_0d372093-7a63-4312-92e4-618861f98dd8",
+                "rating": 4.6,
+                "ratings_total": 33885,
+                "main_image": "https://target.scene7.com/is/image/Target/GUEST_adde55b5-144e-450d-9008-61faefc35666",
                 "images": [
-                    "https://target.scene7.com/is/image/Target/GUEST_0d372093-7a63-4312-92e4-618861f98dd8",
-                    "https://target.scene7.com/is/image/Target/GUEST_5b24ff59-da38-4b35-8488-79dbdbd46bfb",
-                    "https://target.scene7.com/is/image/Target/GUEST_0f43c4f8-faca-4a71-b6da-8c095a3cd8b7",
-                    "https://target.scene7.com/is/image/Target/GUEST_0795c492-2fdf-4b3f-afad-ed1d03929572",
-                    "https://target.scene7.com/is/image/Target/GUEST_4faa78ea-2a9d-4662-a792-6cd82f5d4d74",
-                    "https://target.scene7.com/is/image/Target/GUEST_917f721e-691a-486a-a5c3-79dbd3b3d624",
-                    "https://target.scene7.com/is/image/Target/GUEST_381763c2-dcdb-4169-9fac-bcb4a9d2be10"
+                    "https://target.scene7.com/is/image/Target/GUEST_adde55b5-144e-450d-9008-61faefc35666",
+                    "https://target.scene7.com/is/image/Target/GUEST_8be93720-40a6-4fac-bf9b-d2ab4870f841",
+                    "https://target.scene7.com/is/image/Target/GUEST_8702a952-2b3f-4e6e-9e78-c75405b11f14",
+                    "https://target.scene7.com/is/image/Target/GUEST_c3d35e16-e0bd-4195-9170-affeac39ff99",
+                    "https://target.scene7.com/is/image/Target/GUEST_884fe71b-ce44-4201-aa1c-8a4f5a8d4198",
+                    "https://target.scene7.com/is/image/Target/GUEST_104724ce-554d-4a0d-90dd-947a44e5399b",
+                    "https://target.scene7.com/is/image/Target/GUEST_bf12e0ef-245e-4e6d-bc9f-b3b690176307"
                 ]
             },
             "offers": {
@@ -1485,269 +1484,6 @@
         {
             "position": 2,
             "product": {
-                "title": "Gain Liquid Oxi Waterfall Laundry Detergent - 113 fl oz",
-                "link": "https://www.target.com/p/gain-liquid-oxi-waterfall-laundry-detergent-113-fl-oz/-/A-87559687",
-                "tcin": "87559687",
-                "dpci": "003-08-6909",
-                "class_id": 8,
-                "department_id": 3,
-                "brand": "Gain",
-                "brand_link": "https://www.target.com/b/gain/-/N-56dbb",
-                "feature_bullets": [
-                    "LAUNDRY DETERGENT LIFTS AWAY DIRT AND LOCKS IN AN AMAZING SCENT TO KEEP YOUR LAUNDRY SMELLING GREAT, EVEN AFTER SIX WEEKS**FROM WASH UNTIL WEAR",
-                    "HE COMPATIBLE-SAFE FOR USE WITH REGULAR WASHER AND HIGH-EFFICIENCY WASHERS",
-                    "INFUSES CLOTHES WITH A SOOTHING FRAGRANCE",
-                    "OXI CLEANING POWER FOR A WATERFALL FRESH CLEAN"
-                ],
-                "main_image": "https://target.scene7.com/is/image/Target/GUEST_b570232b-f3d8-4635-af4e-6e650317dd90",
-                "images": [
-                    "https://target.scene7.com/is/image/Target/GUEST_b570232b-f3d8-4635-af4e-6e650317dd90",
-                    "https://target.scene7.com/is/image/Target/GUEST_46613f07-0501-484e-9f05-5c8688618f89",
-                    "https://target.scene7.com/is/image/Target/GUEST_6a26ce81-4bff-464f-9fee-d5327c00ab8a",
-                    "https://target.scene7.com/is/image/Target/GUEST_d7fc1b8b-68b0-42c9-857d-832b79da98ff",
-                    "https://target.scene7.com/is/image/Target/GUEST_2bda39e6-599f-4332-80b4-96942d788165",
-                    "https://target.scene7.com/is/image/Target/GUEST_71b17746-e66c-4131-b224-670482fab5a4",
-                    "https://target.scene7.com/is/image/Target/GUEST_49c96794-2417-43ed-b37e-d012d7abf929"
-                ],
-                "videos": [
-                    {
-                        "link": "https://target.scene7.com/is/content/Target/GUEST_1a20e4fd-c08d-430c-b73b-30a638e3c8e9_Flash9_Autox720p_2600k",
-                        "type": "video/mp4"
-                    }
-                ]
-            },
-            "offers": {
-                "primary": {
-                    "price": 12.99,
-                    "currency": "USD",
-                    "symbol": "$"
-                },
-                "all_offers": [
-                    {
-                        "price": 12.99,
-                        "currency": "USD",
-                        "symbol": "$"
-                    }
-                ]
-            },
-            "fulfillment": {
-                "type": "1p"
-            },
-            "page": 7,
-            "position_overall": 27
-        },
-        {
-            "position": 3,
-            "product": {
-                "title": "Tide Pods Light Laundry Detergent - White Lavender - 42ct",
-                "link": "https://www.target.com/p/tide-pods-light-laundry-detergent-white-lavender-42ct/-/A-87559730",
-                "tcin": "87559730",
-                "dpci": "003-08-5834",
-                "class_id": 8,
-                "department_id": 3,
-                "brand": "Tide",
-                "brand_link": "https://www.target.com/b/tide/-/N-5d8y6",
-                "feature_bullets": [
-                    "POWERFUL DETERGENT, LIGHT AND LASTING SCENT. Cleans deep with a scent that's just right.",
-                    "NO HEAVY PERFUMES. Designed with a light, lasting fragrance.",
-                    "WHITE LAVENDER SCENT. Also available in Ocean Mist scent.",
-                    "WORKS ON 100% OF COMMON STAINS. Giving you the Tide clean you know and trust.",
-                    "AMERICA'S #1 TRUSTED DETERGENT BRAND.* According to a BrandSpark survey."
-                ],
-                "main_image": "https://target.scene7.com/is/image/Target/GUEST_7fd36ce2-94f1-40c5-87f9-a47f341e3bff",
-                "images": [
-                    "https://target.scene7.com/is/image/Target/GUEST_7fd36ce2-94f1-40c5-87f9-a47f341e3bff",
-                    "https://target.scene7.com/is/image/Target/GUEST_0d9af59e-d8fe-4622-8068-9aaccd92eab0",
-                    "https://target.scene7.com/is/image/Target/GUEST_e62eb379-773f-4c16-9d46-8e16c2689c8d",
-                    "https://target.scene7.com/is/image/Target/GUEST_e177c26a-276f-460e-9756-862a27106877",
-                    "https://target.scene7.com/is/image/Target/GUEST_b1611c71-3820-4217-9ecc-22e7c9dc5b5d",
-                    "https://target.scene7.com/is/image/Target/GUEST_2ea0ba88-9ffd-4d94-8404-82741f441494",
-                    "https://target.scene7.com/is/image/Target/GUEST_5eb99f92-07f6-45d3-a642-af30329848dc",
-                    "https://target.scene7.com/is/image/Target/GUEST_c5935365-b30b-4b8f-a697-9a750f524f77",
-                    "https://target.scene7.com/is/image/Target/GUEST_2cafbb38-750f-406c-afec-13e1c564ba56"
-                ],
-                "videos": [
-                    {
-                        "link": "https://target.scene7.com/is/content/Target/GUEST_11ee2acb-23d8-42dc-9fde-38b137d83549_Flash9_Autox720p_2600k",
-                        "type": "video/mp4"
-                    }
-                ]
-            },
-            "offers": {
-                "primary": {
-                    "price": 12.99,
-                    "currency": "USD",
-                    "symbol": "$"
-                },
-                "all_offers": [
-                    {
-                        "price": 12.99,
-                        "currency": "USD",
-                        "symbol": "$"
-                    }
-                ]
-            },
-            "fulfillment": {
-                "type": "1p"
-            },
-            "page": 7,
-            "position_overall": 28
-        },
-        {
-            "position": 4,
-            "product": {
-                "title": "Tide Pods Laundry Detergent - Light - 42ct",
-                "link": "https://www.target.com/p/tide-pods-laundry-detergent-light-42ct/-/A-87559727",
-                "tcin": "87559727",
-                "dpci": "003-08-6289",
-                "class_id": 8,
-                "department_id": 3,
-                "brand": "Tide",
-                "brand_link": "https://www.target.com/b/tide/-/N-5d8y6",
-                "feature_bullets": [
-                    "POWERFUL DETERGENT, LIGHT AND LASTING SCENT. Cleans deep with a scent that's just right.",
-                    "NO HEAVY PERFUMES. Designed with a light, lasting fragrance.",
-                    "OCEAN MIST SCENT. Also available in White Lavender scent.",
-                    "WORKS ON 100% OF COMMON STAINS. Giving you the Tide clean you know and trust."
-                ],
-                "main_image": "https://target.scene7.com/is/image/Target/GUEST_3f634e2f-1218-465a-ad23-6090cabc92a6",
-                "images": [
-                    "https://target.scene7.com/is/image/Target/GUEST_3f634e2f-1218-465a-ad23-6090cabc92a6",
-                    "https://target.scene7.com/is/image/Target/GUEST_ee8dbcbd-057b-40c7-9c16-2d7a2ca635ac",
-                    "https://target.scene7.com/is/image/Target/GUEST_4742805c-b645-4b67-bf95-80bc8011ae0c",
-                    "https://target.scene7.com/is/image/Target/GUEST_ae60441f-3367-48fc-b487-ed7c3d2a862c",
-                    "https://target.scene7.com/is/image/Target/GUEST_0107e32f-1649-415b-b603-eefdf8610e60",
-                    "https://target.scene7.com/is/image/Target/GUEST_2938a4b4-a934-4c13-ba06-bbac20c4b39f",
-                    "https://target.scene7.com/is/image/Target/GUEST_35c997fb-3532-4700-b759-e8af353932ed",
-                    "https://target.scene7.com/is/image/Target/GUEST_1f3c0d81-13e2-4558-808b-21d0294382ec"
-                ],
-                "videos": [
-                    {
-                        "link": "https://target.scene7.com/is/content/Target/GUEST_11ee2acb-23d8-42dc-9fde-38b137d83549_Flash9_Autox720p_2600k",
-                        "type": "video/mp4"
-                    }
-                ]
-            },
-            "offers": {
-                "primary": {
-                    "price": 12.99,
-                    "currency": "USD",
-                    "symbol": "$"
-                },
-                "all_offers": [
-                    {
-                        "price": 12.99,
-                        "currency": "USD",
-                        "symbol": "$"
-                    }
-                ]
-            },
-            "fulfillment": {
-                "type": "1p"
-            },
-            "page": 7,
-            "position_overall": 29
-        },
-        {
-            "position": 5,
-            "product": {
-                "title": "Gain Flings Laundry Detergent - Fresh &#38; Comfy - 42ct",
-                "link": "https://www.target.com/p/gain-flings-laundry-detergent-fresh-38-comfy-42ct/-/A-87559698",
-                "tcin": "87559698",
-                "dpci": "003-08-3707",
-                "class_id": 8,
-                "department_id": 3,
-                "brand": "Gain",
-                "brand_link": "https://www.target.com/b/gain/-/N-56dbb",
-                "feature_bullets": [
-                    "FEELS AS GOOD AS IT SMELLS - leaves laundry feeling amazingingly comfy while smelling unbelievably fresh",
-                    "TOUCH OF COMFY - helps your laundry to feel as good as it smells",
-                    "3-in-1 DETERGENT tackles dirt while providing irresistable scent and comfort",
-                    "6 WEEK OF FRESHNESS* *From wash until wear.",
-                    "WORKS IN ALL WASHING MACHINES AND WATER CONDITIONS-even in cold water"
-                ],
-                "main_image": "https://target.scene7.com/is/image/Target/GUEST_9771bf8e-977b-456b-beb0-b64b397fcb29",
-                "images": [
-                    "https://target.scene7.com/is/image/Target/GUEST_9771bf8e-977b-456b-beb0-b64b397fcb29",
-                    "https://target.scene7.com/is/image/Target/GUEST_8f686507-eb7a-4da2-8d68-a1d50e64bfe6",
-                    "https://target.scene7.com/is/image/Target/GUEST_c805d8e8-c9f4-47d7-8b6f-b9a8c85fa7f8",
-                    "https://target.scene7.com/is/image/Target/GUEST_f024b6fa-e48b-4a6d-9a7c-6c6c34630d50",
-                    "https://target.scene7.com/is/image/Target/GUEST_61744dec-c2cd-4fd2-b1b6-690d618bda32",
-                    "https://target.scene7.com/is/image/Target/GUEST_585472a9-c770-4037-b926-8d5100a19c2a",
-                    "https://target.scene7.com/is/image/Target/GUEST_d43dfd51-618d-40db-8fe8-4008f57c3c73"
-                ]
-            },
-            "offers": {
-                "primary": {
-                    "price": 12.99,
-                    "currency": "USD",
-                    "symbol": "$"
-                },
-                "all_offers": [
-                    {
-                        "price": 12.99,
-                        "currency": "USD",
-                        "symbol": "$"
-                    }
-                ]
-            },
-            "fulfillment": {
-                "type": "1p"
-            },
-            "page": 7,
-            "position_overall": 30
-        },
-        {
-            "position": 6,
-            "product": {
-                "title": "Cheer Liquid Laundry Detergent - Free &#38; Gentle - 154 fl oz",
-                "link": "https://www.target.com/p/cheer-liquid-laundry-detergent-free-38-gentle-154-fl-oz/-/A-87559713",
-                "tcin": "87559713",
-                "dpci": "003-08-0017",
-                "class_id": 8,
-                "department_id": 3,
-                "brand": "Cheer",
-                "brand_link": "https://www.target.com/b/cheer/-/N-56d44",
-                "feature_bullets": [
-                    "Works in both standard and high-efficiency washing machines.",
-                    "Fights fading & Pilling",
-                    "Specially formulated to help colorful clothes stay colorful",
-                    "No dyes. No perfumes. No worries.",
-                    "Color Protection; Bright Clothes; Fights Fading; Pilling"
-                ],
-                "rating": 4.7,
-                "ratings_total": 3,
-                "main_image": "https://target.scene7.com/is/image/Target/GUEST_1a5c3848-5097-4ae7-baa1-76fb7f14dcdf",
-                "images": [
-                    "https://target.scene7.com/is/image/Target/GUEST_1a5c3848-5097-4ae7-baa1-76fb7f14dcdf",
-                    "https://target.scene7.com/is/image/Target/GUEST_2599b0e7-0525-402f-b20d-1624e07955d5",
-                    "https://target.scene7.com/is/image/Target/GUEST_4a4a049c-5ee7-4112-ba12-62c228d624a6",
-                    "https://target.scene7.com/is/image/Target/GUEST_c4344063-55b3-46cc-b67a-4417af190129"
-                ]
-            },
-            "offers": {
-                "primary": {
-                    "price": 12.99,
-                    "currency": "USD",
-                    "symbol": "$"
-                },
-                "all_offers": [
-                    {
-                        "price": 12.99,
-                        "currency": "USD",
-                        "symbol": "$"
-                    }
-                ]
-            },
-            "fulfillment": {
-                "type": "1p"
-            },
-            "page": 7,
-            "position_overall": 31
-        },
-        {
-            "position": 7,
-            "product": {
                 "title": "All Fresh Clean Oxi Odor Unit Dose Laundry Detergent - 60ct",
                 "link": "https://www.target.com/p/all-fresh-clean-oxi-odor-unit-dose-laundry-detergent-60ct/-/A-87559719",
                 "tcin": "87559719",
@@ -1787,41 +1523,41 @@
                 "type": "1p"
             },
             "page": 7,
-            "position_overall": 32
+            "position_overall": 27
         },
         {
-            "position": 8,
+            "position": 3,
             "product": {
-                "title": "Tide Power Pods Febreze Odor Eliminator Laundry Detergent - Spring and Renewal - 25ct",
-                "link": "https://www.target.com/p/tide-power-pods-febreze-odor-eliminator-laundry-detergent-spring-and-renewal-25ct/-/A-87559679",
-                "tcin": "87559679",
-                "dpci": "003-08-9280",
+                "title": "Tide Febreze Odor Laundry Detergent - Sport - 25ct",
+                "link": "https://www.target.com/p/tide-febreze-odor-laundry-detergent-sport-25ct/-/A-87559681",
+                "tcin": "87559681",
+                "dpci": "003-08-9182",
                 "class_id": 8,
                 "department_id": 3,
                 "brand": "Tide",
                 "brand_link": "https://www.target.com/b/tide/-/N-5d8y6",
                 "feature_bullets": [
-                    "YOUR FAVORITE TIDE SCENTS IN POWERFUL, ALL-IN-ONE LAUNDRY DETERGENT PACS",
-                    "AMERICA'S #1 TRUSTED DETERGENT BRAND*",
-                    "HELPS FIGHT EVEN WEEK OLD SWEAT ODORS",
-                    "4-IN-1 TECHNOLOGY PROVIDES SUPER-CONCENTRATED DETERGENT, FEBREZE ODOR ELIMINATORS, STAIN REMOVERS, AND LONG-LASTING FRESHNESS IN AN ALL-IN-ONE SOLUTION",
-                    "WORKS IN ALL MACHINES AND WATER CONDITIONS-especially cold water"
+                    "DESIGNED WITH FEBREZE ODOR ELIMINATORS TO FIGHT SET-IN ODORS AND TOUGH STAINS ALL IN ONE WASH",
+                    "AMERICA'S #1 TRUSTED DETERGENT BRAND* * Voted most trusted laundry brand by American shoppers based on the 2022 BrandSpark American trust survey.",
+                    "TACKLES SWEAT, MUD, GRASS, AND MORE",
+                    "ELIMINATE EVEN WEEK-OLD SPORT ODORS",
+                    "4-IN-1 TECHNOLOGY PROVIDES SUPER-CONCENTRATED DETERGENT, FEBREZE ODOR FIGHTERS, STAIN REMOVERS, AND LASTING FRESHNESS IN AN ALL-IN-ONE SOLUTION"
                 ],
-                "main_image": "https://target.scene7.com/is/image/Target/GUEST_4c6cd904-c284-4d99-9085-8bd46ffd3320",
+                "main_image": "https://target.scene7.com/is/image/Target/GUEST_9743e0eb-7985-4129-bc8a-381a2ccd0bd2",
                 "images": [
-                    "https://target.scene7.com/is/image/Target/GUEST_4c6cd904-c284-4d99-9085-8bd46ffd3320",
-                    "https://target.scene7.com/is/image/Target/GUEST_40ee82d4-d5fb-4085-a448-d4f177527977",
-                    "https://target.scene7.com/is/image/Target/GUEST_5ac8d7f4-35c0-4cee-a9c5-a21028755714",
-                    "https://target.scene7.com/is/image/Target/GUEST_3415b281-678a-4ca4-b246-f91f292b2b59",
-                    "https://target.scene7.com/is/image/Target/GUEST_25c1853b-7370-4f70-bfc8-2c6a2f824996",
-                    "https://target.scene7.com/is/image/Target/GUEST_bd43d0ac-f2e8-40c3-9fe1-16c53f0e1b6d",
-                    "https://target.scene7.com/is/image/Target/GUEST_c50f22b4-42b5-4343-81da-4dfc42f28fe6",
-                    "https://target.scene7.com/is/image/Target/GUEST_62aa6496-bbb1-4ed4-b38a-4aaebd57f0c6",
-                    "https://target.scene7.com/is/image/Target/GUEST_bde818c3-5613-4de4-b9a0-d8ba82a9f695"
+                    "https://target.scene7.com/is/image/Target/GUEST_9743e0eb-7985-4129-bc8a-381a2ccd0bd2",
+                    "https://target.scene7.com/is/image/Target/GUEST_4e54f451-adcc-4eaa-9159-0f4a789e4586",
+                    "https://target.scene7.com/is/image/Target/GUEST_17c7f8b4-f31e-4713-86a3-715c896f89e4",
+                    "https://target.scene7.com/is/image/Target/GUEST_4618d514-a589-4c57-b72e-f42ba7feed5c",
+                    "https://target.scene7.com/is/image/Target/GUEST_c400a363-760d-4968-b59c-977926054e58",
+                    "https://target.scene7.com/is/image/Target/GUEST_4be2c53e-e7f8-4915-8c89-a97b87b5ce42",
+                    "https://target.scene7.com/is/image/Target/GUEST_d250a229-6ed8-4391-b459-ee8f4d348010",
+                    "https://target.scene7.com/is/image/Target/GUEST_befaa59c-375d-42c2-b4e4-e95335a37336",
+                    "https://target.scene7.com/is/image/Target/GUEST_3c1b7a9b-b186-47b1-9759-edc4dd5e039f"
                 ],
                 "videos": [
                     {
-                        "link": "https://target.scene7.com/is/content/Target/GUEST_3451604f-4a91-4ef4-b256-e91cc715755f_Flash9_Autox720p_2600k",
+                        "link": "https://target.scene7.com/is/content/Target/GUEST_c79dc640-f308-4b09-ae79-f7f5d273a652_Flash9_Autox720p_2600k",
                         "type": "video/mp4"
                     }
                 ]
@@ -1844,10 +1580,10 @@
                 "type": "1p"
             },
             "page": 7,
-            "position_overall": 33
+            "position_overall": 28
         },
         {
-            "position": 9,
+            "position": 4,
             "product": {
                 "title": "Gain Liquid Laundry Detergent - Fresh &#38; Comfy - 113 fl oz",
                 "link": "https://www.target.com/p/gain-liquid-laundry-detergent-fresh-38-comfy-113-fl-oz/-/A-87559709",
@@ -1894,10 +1630,10 @@
                 "type": "1p"
             },
             "page": 7,
-            "position_overall": 34
+            "position_overall": 29
         },
         {
-            "position": 10,
+            "position": 5,
             "product": {
                 "title": "Gain Flings Oxi Waterfall Laundry Detergent - 42ct",
                 "link": "https://www.target.com/p/gain-flings-oxi-waterfall-laundry-detergent-42ct/-/A-87559676",
@@ -1952,43 +1688,306 @@
                 "type": "1p"
             },
             "page": 7,
-            "position_overall": 35
+            "position_overall": 30
         },
         {
-            "position": 11,
+            "position": 6,
             "product": {
-                "title": "Tide Febreze Odor Laundry Detergent - Sport - 25ct",
-                "link": "https://www.target.com/p/tide-febreze-odor-laundry-detergent-sport-25ct/-/A-87559681",
-                "tcin": "87559681",
-                "dpci": "003-08-9182",
+                "title": "Gain Flings Laundry Detergent - Fresh &#38; Comfy - 42ct",
+                "link": "https://www.target.com/p/gain-flings-laundry-detergent-fresh-38-comfy-42ct/-/A-87559698",
+                "tcin": "87559698",
+                "dpci": "003-08-3707",
+                "class_id": 8,
+                "department_id": 3,
+                "brand": "Gain",
+                "brand_link": "https://www.target.com/b/gain/-/N-56dbb",
+                "feature_bullets": [
+                    "FEELS AS GOOD AS IT SMELLS - leaves laundry feeling amazingingly comfy while smelling unbelievably fresh",
+                    "TOUCH OF COMFY - helps your laundry to feel as good as it smells",
+                    "3-in-1 DETERGENT tackles dirt while providing irresistable scent and comfort",
+                    "6 WEEK OF FRESHNESS* *From wash until wear.",
+                    "WORKS IN ALL WASHING MACHINES AND WATER CONDITIONS-even in cold water"
+                ],
+                "main_image": "https://target.scene7.com/is/image/Target/GUEST_9771bf8e-977b-456b-beb0-b64b397fcb29",
+                "images": [
+                    "https://target.scene7.com/is/image/Target/GUEST_9771bf8e-977b-456b-beb0-b64b397fcb29",
+                    "https://target.scene7.com/is/image/Target/GUEST_8f686507-eb7a-4da2-8d68-a1d50e64bfe6",
+                    "https://target.scene7.com/is/image/Target/GUEST_c805d8e8-c9f4-47d7-8b6f-b9a8c85fa7f8",
+                    "https://target.scene7.com/is/image/Target/GUEST_f024b6fa-e48b-4a6d-9a7c-6c6c34630d50",
+                    "https://target.scene7.com/is/image/Target/GUEST_61744dec-c2cd-4fd2-b1b6-690d618bda32",
+                    "https://target.scene7.com/is/image/Target/GUEST_585472a9-c770-4037-b926-8d5100a19c2a",
+                    "https://target.scene7.com/is/image/Target/GUEST_d43dfd51-618d-40db-8fe8-4008f57c3c73"
+                ]
+            },
+            "offers": {
+                "primary": {
+                    "price": 12.99,
+                    "currency": "USD",
+                    "symbol": "$"
+                },
+                "all_offers": [
+                    {
+                        "price": 12.99,
+                        "currency": "USD",
+                        "symbol": "$"
+                    }
+                ]
+            },
+            "fulfillment": {
+                "type": "1p"
+            },
+            "page": 7,
+            "position_overall": 31
+        },
+        {
+            "position": 7,
+            "product": {
+                "title": "Tide Pods Laundry Detergent - Light - 42ct",
+                "link": "https://www.target.com/p/tide-pods-laundry-detergent-light-42ct/-/A-87559727",
+                "tcin": "87559727",
+                "dpci": "003-08-6289",
                 "class_id": 8,
                 "department_id": 3,
                 "brand": "Tide",
                 "brand_link": "https://www.target.com/b/tide/-/N-5d8y6",
                 "feature_bullets": [
-                    "DESIGNED WITH FEBREZE ODOR ELIMINATORS TO FIGHT SET-IN ODORS AND TOUGH STAINS ALL IN ONE WASH",
-                    "AMERICA'S #1 TRUSTED DETERGENT BRAND* * Voted most trusted laundry brand by American shoppers based on the 2022 BrandSpark American trust survey.",
-                    "TACKLES SWEAT, MUD, GRASS, AND MORE",
-                    "ELIMINATE EVEN WEEK-OLD SPORT ODORS",
-                    "4-IN-1 TECHNOLOGY PROVIDES SUPER-CONCENTRATED DETERGENT, FEBREZE ODOR FIGHTERS, STAIN REMOVERS, AND LASTING FRESHNESS IN AN ALL-IN-ONE SOLUTION"
+                    "POWERFUL DETERGENT, LIGHT AND LASTING SCENT. Cleans deep with a scent that's just right.",
+                    "NO HEAVY PERFUMES. Designed with a light, lasting fragrance.",
+                    "OCEAN MIST SCENT. Also available in White Lavender scent.",
+                    "WORKS ON 100% OF COMMON STAINS. Giving you the Tide clean you know and trust."
                 ],
-                "main_image": "https://target.scene7.com/is/image/Target/GUEST_9743e0eb-7985-4129-bc8a-381a2ccd0bd2",
+                "main_image": "https://target.scene7.com/is/image/Target/GUEST_3f634e2f-1218-465a-ad23-6090cabc92a6",
                 "images": [
-                    "https://target.scene7.com/is/image/Target/GUEST_9743e0eb-7985-4129-bc8a-381a2ccd0bd2",
-                    "https://target.scene7.com/is/image/Target/GUEST_4e54f451-adcc-4eaa-9159-0f4a789e4586",
-                    "https://target.scene7.com/is/image/Target/GUEST_17c7f8b4-f31e-4713-86a3-715c896f89e4",
-                    "https://target.scene7.com/is/image/Target/GUEST_4618d514-a589-4c57-b72e-f42ba7feed5c",
-                    "https://target.scene7.com/is/image/Target/GUEST_c400a363-760d-4968-b59c-977926054e58",
-                    "https://target.scene7.com/is/image/Target/GUEST_4be2c53e-e7f8-4915-8c89-a97b87b5ce42",
-                    "https://target.scene7.com/is/image/Target/GUEST_d250a229-6ed8-4391-b459-ee8f4d348010",
-                    "https://target.scene7.com/is/image/Target/GUEST_befaa59c-375d-42c2-b4e4-e95335a37336",
-                    "https://target.scene7.com/is/image/Target/GUEST_3c1b7a9b-b186-47b1-9759-edc4dd5e039f"
+                    "https://target.scene7.com/is/image/Target/GUEST_3f634e2f-1218-465a-ad23-6090cabc92a6",
+                    "https://target.scene7.com/is/image/Target/GUEST_ee8dbcbd-057b-40c7-9c16-2d7a2ca635ac",
+                    "https://target.scene7.com/is/image/Target/GUEST_4742805c-b645-4b67-bf95-80bc8011ae0c",
+                    "https://target.scene7.com/is/image/Target/GUEST_ae60441f-3367-48fc-b487-ed7c3d2a862c",
+                    "https://target.scene7.com/is/image/Target/GUEST_0107e32f-1649-415b-b603-eefdf8610e60",
+                    "https://target.scene7.com/is/image/Target/GUEST_2938a4b4-a934-4c13-ba06-bbac20c4b39f",
+                    "https://target.scene7.com/is/image/Target/GUEST_35c997fb-3532-4700-b759-e8af353932ed",
+                    "https://target.scene7.com/is/image/Target/GUEST_1f3c0d81-13e2-4558-808b-21d0294382ec"
                 ],
                 "videos": [
                     {
-                        "link": "https://target.scene7.com/is/content/Target/GUEST_c79dc640-f308-4b09-ae79-f7f5d273a652_Flash9_Autox720p_2600k",
+                        "link": "https://target.scene7.com/is/content/Target/GUEST_11ee2acb-23d8-42dc-9fde-38b137d83549_Flash9_Autox720p_2600k",
                         "type": "video/mp4"
                     }
+                ]
+            },
+            "offers": {
+                "primary": {
+                    "price": 12.99,
+                    "currency": "USD",
+                    "symbol": "$"
+                },
+                "all_offers": [
+                    {
+                        "price": 12.99,
+                        "currency": "USD",
+                        "symbol": "$"
+                    }
+                ]
+            },
+            "fulfillment": {
+                "type": "1p"
+            },
+            "page": 7,
+            "position_overall": 32
+        },
+        {
+            "position": 8,
+            "product": {
+                "title": "Gain Liquid Oxi Waterfall Laundry Detergent - 113 fl oz",
+                "link": "https://www.target.com/p/gain-liquid-oxi-waterfall-laundry-detergent-113-fl-oz/-/A-87559687",
+                "tcin": "87559687",
+                "dpci": "003-08-6909",
+                "class_id": 8,
+                "department_id": 3,
+                "brand": "Gain",
+                "brand_link": "https://www.target.com/b/gain/-/N-56dbb",
+                "feature_bullets": [
+                    "LAUNDRY DETERGENT LIFTS AWAY DIRT AND LOCKS IN AN AMAZING SCENT TO KEEP YOUR LAUNDRY SMELLING GREAT, EVEN AFTER SIX WEEKS**FROM WASH UNTIL WEAR",
+                    "HE COMPATIBLE-SAFE FOR USE WITH REGULAR WASHER AND HIGH-EFFICIENCY WASHERS",
+                    "INFUSES CLOTHES WITH A SOOTHING FRAGRANCE",
+                    "OXI CLEANING POWER FOR A WATERFALL FRESH CLEAN"
+                ],
+                "main_image": "https://target.scene7.com/is/image/Target/GUEST_b570232b-f3d8-4635-af4e-6e650317dd90",
+                "images": [
+                    "https://target.scene7.com/is/image/Target/GUEST_b570232b-f3d8-4635-af4e-6e650317dd90",
+                    "https://target.scene7.com/is/image/Target/GUEST_46613f07-0501-484e-9f05-5c8688618f89",
+                    "https://target.scene7.com/is/image/Target/GUEST_6a26ce81-4bff-464f-9fee-d5327c00ab8a",
+                    "https://target.scene7.com/is/image/Target/GUEST_d7fc1b8b-68b0-42c9-857d-832b79da98ff",
+                    "https://target.scene7.com/is/image/Target/GUEST_2bda39e6-599f-4332-80b4-96942d788165",
+                    "https://target.scene7.com/is/image/Target/GUEST_71b17746-e66c-4131-b224-670482fab5a4",
+                    "https://target.scene7.com/is/image/Target/GUEST_49c96794-2417-43ed-b37e-d012d7abf929"
+                ],
+                "videos": [
+                    {
+                        "link": "https://target.scene7.com/is/content/Target/GUEST_1a20e4fd-c08d-430c-b73b-30a638e3c8e9_Flash9_Autox720p_2600k",
+                        "type": "video/mp4"
+                    }
+                ]
+            },
+            "offers": {
+                "primary": {
+                    "price": 12.99,
+                    "currency": "USD",
+                    "symbol": "$"
+                },
+                "all_offers": [
+                    {
+                        "price": 12.99,
+                        "currency": "USD",
+                        "symbol": "$"
+                    }
+                ]
+            },
+            "fulfillment": {
+                "type": "1p"
+            },
+            "page": 7,
+            "position_overall": 33
+        },
+        {
+            "position": 9,
+            "product": {
+                "title": "Tide Pods Light Laundry Detergent - White Lavender - 42ct",
+                "link": "https://www.target.com/p/tide-pods-light-laundry-detergent-white-lavender-42ct/-/A-87559730",
+                "tcin": "87559730",
+                "dpci": "003-08-5834",
+                "class_id": 8,
+                "department_id": 3,
+                "brand": "Tide",
+                "brand_link": "https://www.target.com/b/tide/-/N-5d8y6",
+                "feature_bullets": [
+                    "POWERFUL DETERGENT, LIGHT AND LASTING SCENT. Cleans deep with a scent that's just right.",
+                    "NO HEAVY PERFUMES. Designed with a light, lasting fragrance.",
+                    "WHITE LAVENDER SCENT. Also available in Ocean Mist scent.",
+                    "WORKS ON 100% OF COMMON STAINS. Giving you the Tide clean you know and trust.",
+                    "AMERICA'S #1 TRUSTED DETERGENT BRAND.* According to a BrandSpark survey."
+                ],
+                "main_image": "https://target.scene7.com/is/image/Target/GUEST_7fd36ce2-94f1-40c5-87f9-a47f341e3bff",
+                "images": [
+                    "https://target.scene7.com/is/image/Target/GUEST_7fd36ce2-94f1-40c5-87f9-a47f341e3bff",
+                    "https://target.scene7.com/is/image/Target/GUEST_0d9af59e-d8fe-4622-8068-9aaccd92eab0",
+                    "https://target.scene7.com/is/image/Target/GUEST_e62eb379-773f-4c16-9d46-8e16c2689c8d",
+                    "https://target.scene7.com/is/image/Target/GUEST_e177c26a-276f-460e-9756-862a27106877",
+                    "https://target.scene7.com/is/image/Target/GUEST_b1611c71-3820-4217-9ecc-22e7c9dc5b5d",
+                    "https://target.scene7.com/is/image/Target/GUEST_2ea0ba88-9ffd-4d94-8404-82741f441494",
+                    "https://target.scene7.com/is/image/Target/GUEST_5eb99f92-07f6-45d3-a642-af30329848dc",
+                    "https://target.scene7.com/is/image/Target/GUEST_c5935365-b30b-4b8f-a697-9a750f524f77",
+                    "https://target.scene7.com/is/image/Target/GUEST_2cafbb38-750f-406c-afec-13e1c564ba56"
+                ],
+                "videos": [
+                    {
+                        "link": "https://target.scene7.com/is/content/Target/GUEST_11ee2acb-23d8-42dc-9fde-38b137d83549_Flash9_Autox720p_2600k",
+                        "type": "video/mp4"
+                    }
+                ]
+            },
+            "offers": {
+                "primary": {
+                    "price": 12.99,
+                    "currency": "USD",
+                    "symbol": "$"
+                },
+                "all_offers": [
+                    {
+                        "price": 12.99,
+                        "currency": "USD",
+                        "symbol": "$"
+                    }
+                ]
+            },
+            "fulfillment": {
+                "type": "1p"
+            },
+            "page": 7,
+            "position_overall": 34
+        },
+        {
+            "position": 10,
+            "product": {
+                "title": "Tide Power Pods Febreze Odor Eliminator Laundry Detergent - Spring and Renewal - 25ct",
+                "link": "https://www.target.com/p/tide-power-pods-febreze-odor-eliminator-laundry-detergent-spring-and-renewal-25ct/-/A-87559679",
+                "tcin": "87559679",
+                "dpci": "003-08-9280",
+                "class_id": 8,
+                "department_id": 3,
+                "brand": "Tide",
+                "brand_link": "https://www.target.com/b/tide/-/N-5d8y6",
+                "feature_bullets": [
+                    "YOUR FAVORITE TIDE SCENTS IN POWERFUL, ALL-IN-ONE LAUNDRY DETERGENT PACS",
+                    "AMERICA'S #1 TRUSTED DETERGENT BRAND*",
+                    "HELPS FIGHT EVEN WEEK OLD SWEAT ODORS",
+                    "4-IN-1 TECHNOLOGY PROVIDES SUPER-CONCENTRATED DETERGENT, FEBREZE ODOR ELIMINATORS, STAIN REMOVERS, AND LONG-LASTING FRESHNESS IN AN ALL-IN-ONE SOLUTION",
+                    "WORKS IN ALL MACHINES AND WATER CONDITIONS-especially cold water"
+                ],
+                "main_image": "https://target.scene7.com/is/image/Target/GUEST_4c6cd904-c284-4d99-9085-8bd46ffd3320",
+                "images": [
+                    "https://target.scene7.com/is/image/Target/GUEST_4c6cd904-c284-4d99-9085-8bd46ffd3320",
+                    "https://target.scene7.com/is/image/Target/GUEST_40ee82d4-d5fb-4085-a448-d4f177527977",
+                    "https://target.scene7.com/is/image/Target/GUEST_5ac8d7f4-35c0-4cee-a9c5-a21028755714",
+                    "https://target.scene7.com/is/image/Target/GUEST_3415b281-678a-4ca4-b246-f91f292b2b59",
+                    "https://target.scene7.com/is/image/Target/GUEST_25c1853b-7370-4f70-bfc8-2c6a2f824996",
+                    "https://target.scene7.com/is/image/Target/GUEST_bd43d0ac-f2e8-40c3-9fe1-16c53f0e1b6d",
+                    "https://target.scene7.com/is/image/Target/GUEST_c50f22b4-42b5-4343-81da-4dfc42f28fe6",
+                    "https://target.scene7.com/is/image/Target/GUEST_62aa6496-bbb1-4ed4-b38a-4aaebd57f0c6",
+                    "https://target.scene7.com/is/image/Target/GUEST_bde818c3-5613-4de4-b9a0-d8ba82a9f695"
+                ],
+                "videos": [
+                    {
+                        "link": "https://target.scene7.com/is/content/Target/GUEST_3451604f-4a91-4ef4-b256-e91cc715755f_Flash9_Autox720p_2600k",
+                        "type": "video/mp4"
+                    }
+                ]
+            },
+            "offers": {
+                "primary": {
+                    "price": 12.99,
+                    "currency": "USD",
+                    "symbol": "$"
+                },
+                "all_offers": [
+                    {
+                        "price": 12.99,
+                        "currency": "USD",
+                        "symbol": "$"
+                    }
+                ]
+            },
+            "fulfillment": {
+                "type": "1p"
+            },
+            "page": 7,
+            "position_overall": 35
+        },
+        {
+            "position": 11,
+            "product": {
+                "title": "Cheer Liquid Laundry Detergent - Free &#38; Gentle - 154 fl oz",
+                "link": "https://www.target.com/p/cheer-liquid-laundry-detergent-free-38-gentle-154-fl-oz/-/A-87559713",
+                "tcin": "87559713",
+                "dpci": "003-08-0017",
+                "class_id": 8,
+                "department_id": 3,
+                "brand": "Cheer",
+                "brand_link": "https://www.target.com/b/cheer/-/N-56d44",
+                "feature_bullets": [
+                    "Works in both standard and high-efficiency washing machines.",
+                    "Fights fading & Pilling",
+                    "Specially formulated to help colorful clothes stay colorful",
+                    "No dyes. No perfumes. No worries.",
+                    "Color Protection; Bright Clothes; Fights Fading; Pilling"
+                ],
+                "rating": 4.7,
+                "ratings_total": 3,
+                "main_image": "https://target.scene7.com/is/image/Target/GUEST_1a5c3848-5097-4ae7-baa1-76fb7f14dcdf",
+                "images": [
+                    "https://target.scene7.com/is/image/Target/GUEST_1a5c3848-5097-4ae7-baa1-76fb7f14dcdf",
+                    "https://target.scene7.com/is/image/Target/GUEST_2599b0e7-0525-402f-b20d-1624e07955d5",
+                    "https://target.scene7.com/is/image/Target/GUEST_4a4a049c-5ee7-4112-ba12-62c228d624a6",
+                    "https://target.scene7.com/is/image/Target/GUEST_c4344063-55b3-46cc-b67a-4417af190129"
                 ]
             },
             "offers": {
@@ -3368,28 +3367,28 @@
         {
             "position": 14,
             "product": {
-                "title": "Zum Laundry Soap - Frankincense &#38; Myrrh - 64 fl oz",
-                "link": "https://www.target.com/p/zum-laundry-soap-frankincense-38-myrrh-64-fl-oz/-/A-87559718",
-                "tcin": "87559718",
-                "dpci": "003-02-2405",
+                "title": "Zum Laundry Soap - Lavender - 64 fl oz",
+                "link": "https://www.target.com/p/zum-laundry-soap-lavender-64-fl-oz/-/A-87559686",
+                "tcin": "87559686",
+                "dpci": "003-02-0096",
                 "class_id": 2,
                 "department_id": 3,
                 "brand": "Zum",
                 "brand_link": "https://www.target.com/b/zum/-/N-q643legymr5",
                 "feature_bullets": [
                     "Zum Laundry Soap is a plant-packed formula made with five simple ingredients sourced from nature including saponified coconut oil, baking soda, and vegetable glycerin.",
-                    "Frankincense & Myrrh, the top-selling Zum scent, combines the sultry sweetness of earthy frankincense with the rich scent of myrrh. This blend is scented with essential oils and phthalate-free, paraben-free fragrance oil.",
+                    "Lavender smells of classic, floral lavender with a sweet balsamic undertone. This blend is scented with essential oils and is free of synthetic-fragrance.",
                     "Zum Laundry Soap is free of detergents, chlorine, phosphates, parabens, sodium-lauryl-sulphates, and harsh chemicals.",
-                    "This is a highly-concentrated, low-sudsing formula that is compatible with HE and non-HE washing machines. Use half of a capful for regular sized loads, and a full capful for larger loads.",
+                    "This laundry soap is a highly-concentrated, low-sudsing formula that is compatible with HE and non-HE washing machines. Use half of a capful for regular sized loads, and a full capful for larger loads.",
                     "Zum products are never tested on animals and are made in Kansas City, Missouri."
                 ],
-                "rating": 4.2,
-                "ratings_total": 5,
-                "main_image": "https://target.scene7.com/is/image/Target/GUEST_32bb5fbd-3570-4efc-bc72-9faddfdd17cf",
+                "rating": 0,
+                "ratings_total": 0,
+                "main_image": "https://target.scene7.com/is/image/Target/GUEST_eb0911f4-19d6-4491-9f9e-117d265093d4",
                 "images": [
-                    "https://target.scene7.com/is/image/Target/GUEST_32bb5fbd-3570-4efc-bc72-9faddfdd17cf",
-                    "https://target.scene7.com/is/image/Target/GUEST_4143c605-a7e9-43c2-b57b-b0832dab8209",
-                    "https://target.scene7.com/is/image/Target/GUEST_25aecd0d-4e7a-4a69-8da5-ee264bf17b04"
+                    "https://target.scene7.com/is/image/Target/GUEST_eb0911f4-19d6-4491-9f9e-117d265093d4",
+                    "https://target.scene7.com/is/image/Target/GUEST_3de327ca-a76c-4d8c-89dc-7d5044e6e7ad",
+                    "https://target.scene7.com/is/image/Target/GUEST_92e81721-b4e8-4351-a5e6-fbd0af98c687"
                 ],
                 "videos": [
                     {
@@ -3474,28 +3473,28 @@
         {
             "position": 16,
             "product": {
-                "title": "Zum Laundry Soap - Lavender - 64 fl oz",
-                "link": "https://www.target.com/p/zum-laundry-soap-lavender-64-fl-oz/-/A-87559686",
-                "tcin": "87559686",
-                "dpci": "003-02-0096",
+                "title": "Zum Laundry Soap - Frankincense &#38; Myrrh - 64 fl oz",
+                "link": "https://www.target.com/p/zum-laundry-soap-frankincense-38-myrrh-64-fl-oz/-/A-87559718",
+                "tcin": "87559718",
+                "dpci": "003-02-2405",
                 "class_id": 2,
                 "department_id": 3,
                 "brand": "Zum",
                 "brand_link": "https://www.target.com/b/zum/-/N-q643legymr5",
                 "feature_bullets": [
                     "Zum Laundry Soap is a plant-packed formula made with five simple ingredients sourced from nature including saponified coconut oil, baking soda, and vegetable glycerin.",
-                    "Lavender smells of classic, floral lavender with a sweet balsamic undertone. This blend is scented with essential oils and is free of synthetic-fragrance.",
+                    "Frankincense & Myrrh, the top-selling Zum scent, combines the sultry sweetness of earthy frankincense with the rich scent of myrrh. This blend is scented with essential oils and phthalate-free, paraben-free fragrance oil.",
                     "Zum Laundry Soap is free of detergents, chlorine, phosphates, parabens, sodium-lauryl-sulphates, and harsh chemicals.",
-                    "This laundry soap is a highly-concentrated, low-sudsing formula that is compatible with HE and non-HE washing machines. Use half of a capful for regular sized loads, and a full capful for larger loads.",
+                    "This is a highly-concentrated, low-sudsing formula that is compatible with HE and non-HE washing machines. Use half of a capful for regular sized loads, and a full capful for larger loads.",
                     "Zum products are never tested on animals and are made in Kansas City, Missouri."
                 ],
-                "rating": 0,
-                "ratings_total": 0,
-                "main_image": "https://target.scene7.com/is/image/Target/GUEST_eb0911f4-19d6-4491-9f9e-117d265093d4",
+                "rating": 4.2,
+                "ratings_total": 5,
+                "main_image": "https://target.scene7.com/is/image/Target/GUEST_32bb5fbd-3570-4efc-bc72-9faddfdd17cf",
                 "images": [
-                    "https://target.scene7.com/is/image/Target/GUEST_eb0911f4-19d6-4491-9f9e-117d265093d4",
-                    "https://target.scene7.com/is/image/Target/GUEST_3de327ca-a76c-4d8c-89dc-7d5044e6e7ad",
-                    "https://target.scene7.com/is/image/Target/GUEST_92e81721-b4e8-4351-a5e6-fbd0af98c687"
+                    "https://target.scene7.com/is/image/Target/GUEST_32bb5fbd-3570-4efc-bc72-9faddfdd17cf",
+                    "https://target.scene7.com/is/image/Target/GUEST_4143c605-a7e9-43c2-b57b-b0832dab8209",
+                    "https://target.scene7.com/is/image/Target/GUEST_25aecd0d-4e7a-4a69-8da5-ee264bf17b04"
                 ],
                 "videos": [
                     {
@@ -3672,9 +3671,9 @@
         {
             "position": 20,
             "product": {
-                "title": "MomRemedy Eco-Friendly Laundry Detergent Strips - 60 Ct, up to 120 Loads (Fresh Scent)",
-                "link": "https://www.target.com/p/momremedy-eco-friendly-laundry-detergent-strips-60-ct-up-to-120-loads-fresh-scent/-/A-88968837",
-                "tcin": "88968837",
+                "title": "MomRemedy Eco-Friendly Laundry Detergent Strips - 60 Ct, up to 120 Loads (Unscented)",
+                "link": "https://www.target.com/p/momremedy-eco-friendly-laundry-detergent-strips-60-ct-up-to-120-loads-unscented/-/A-88968836",
+                "tcin": "88968836",
                 "class_id": 8,
                 "department_id": 3,
                 "brand": "MomRemedy",
@@ -3688,14 +3687,13 @@
                 ],
                 "rating": 0,
                 "ratings_total": 0,
-                "main_image": "https://target.scene7.com/is/image/Target/GUEST_6c83d103-9f60-4e9f-bee9-7fc6dbe32190",
+                "main_image": "https://target.scene7.com/is/image/Target/GUEST_440f2b73-9b35-490b-a49f-bee7a97b6b05",
                 "images": [
-                    "https://target.scene7.com/is/image/Target/GUEST_6c83d103-9f60-4e9f-bee9-7fc6dbe32190",
-                    "https://target.scene7.com/is/image/Target/GUEST_6b058500-b857-4f34-af7a-fd16989833dc",
+                    "https://target.scene7.com/is/image/Target/GUEST_440f2b73-9b35-490b-a49f-bee7a97b6b05",
+                    "https://target.scene7.com/is/image/Target/GUEST_4f6b7e9f-d329-4fe8-9f9c-5109e0845431",
                     "https://target.scene7.com/is/image/Target/GUEST_6e34a019-5ced-4a42-8939-80b1389c609d",
                     "https://target.scene7.com/is/image/Target/GUEST_4a45a9ce-d8b4-44c9-959f-c81cafb6cee4",
-                    "https://target.scene7.com/is/image/Target/GUEST_7173a34d-3b85-48ff-b476-22d536ceacdf",
-                    "https://target.scene7.com/is/image/Target/GUEST_d28b0d64-c5a1-4c2e-9d11-ba53316861f6"
+                    "https://target.scene7.com/is/image/Target/GUEST_7173a34d-3b85-48ff-b476-22d536ceacdf"
                 ]
             },
             "offers": {
